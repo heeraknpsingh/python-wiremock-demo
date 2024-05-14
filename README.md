@@ -1,1 +1,1 @@
-# python-wiremock-demo
+# wiremock-mock-python-demo
