@@ -2,5 +2,5 @@
 make sure your docker is running
 
 # run below commands to run your API tests with mocked data
-pip install wiremock
-pytest test.py
+1. pip install wiremock
+2. pytest test.py
